@@ -9,3 +9,6 @@ nuevas lineas de código
 haciendo actividades
 
 últimas lineas de código de Github
+
+finalizando con el archivo 
+realizando últimas modificaciones
